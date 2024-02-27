@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titre": "Tâche 1",
+      "description": "Description de la première tâche.",
+      "auteur": "Eric"
+    },
+    {
+      "id": 2,
+      "titre": "Tâche 2",
+      "description": "Description de la deuxième tâche.",
+      "auteur": "Pauline"
+    },
+    {
+      "id": 3,
+      "titre": "Tâche 3",
+      "description": "Description de la troisième tâche.",
+      "auteur": "Eric"
+    }
+  ]
+    
+}
